@@ -1587,6 +1587,20 @@
             },
             "title": "Programa 6",
             "desc": "Tras sus hogueras, chicos y chicas aprovechan para recibir el consuelo y el cariño de sus tentadores favoritos. Además, Montoya  podrá ver durante 10 minutos imágenes en directo de lo que está haciendo Anita. Estas imágenes llevarán a Montoya a emprender una huida desesperada hacia Villa Playa."
+          },
+          {
+            "content": "video",
+            "season": "8",
+            "image": "https://album.mediaset.es/eimg/2025/02/05/lidlt-7_66d9.jpg",
+            "contentId": "7",
+            "category": "programas",
+            "id": "MDSEPS20250124_10038",
+            "video": {
+              "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/fc/65/fc6522cd-7c2c-4357-8e44-3c6781eb2923/main.ism/picky.m3u8",
+              "backup": ""
+            },
+            "title": "Programa 7",
+            "desc": "Tras sus hogueras, chicos y chicas aprovechan para recibir el consuelo y el cariño de sus tentadores favoritos. Además, Montoya  podrá ver durante 10 minutos imágenes en directo de lo que está haciendo Anita. Estas imágenes llevarán a Montoya a emprender una huida desesperada hacia Villa Playa."
           }
         ]
       }
