@@ -1601,6 +1601,20 @@
             },
             "title": "Programa 7",
             "desc": "Tensión y más intentos de huida en Villa Playa"
+          },
+          {
+            "content": "video",
+            "season": "8",
+            "image": "https://album.mediaset.es/eimg/2025/02/06/debate5_ac28.jpg",
+            "contentId": "5",
+            "category": "debates",
+            "id": "MDSVOD20250206_10011",
+            "video": {
+              "normal": "https://vbd.mediaset.es/orivod/vod/bitmovin/23/1d/231d215e-3a80-45d7-9ed7-fafb15634a50/main.ism/picky.m3u8",
+              "backup": ""
+            },
+            "title": "Debate 5",
+            "desc": "Montoya, en toda su esencia"
           }
         ]
       }
