@@ -1,0 +1,30 @@
+[
+  {
+    "content": "video",
+    "season": "8",
+    "image": "https://album.mediaset.es/eimg/2024/12/10/rumboalaisla-1_d2b0.jpg",
+    "contentId": "LIDLT0801",
+    "category": "programas",
+    "id": "LIDLT0801",
+    "video": {
+      "normal": "https://vbdk.mediaset.es/orivod/vod/bitmovin/48/47/48473ede-c31e-4baa-8906-317f08da69c8/main.ism/picky.m3u8",
+      "backup": ""
+    },
+    "title": "Rumbo a La Isla de las Tentaciones 1",
+    "desc": "El paraíso abre de nuevo sus puertas a cinco parejas que pondrán a prueba sus relaciones en una nueva edición de 'La isla de las tentaciones'. Momentos cargados de emoción, risas, lágrimas, nervios y algún que otro desencuentro. Así ha sido el casting de las parejas y los tentadores dispuestos a dejar de lado los nervios para conseguir su objetivo."
+  },
+  {
+    "content": "video",
+    "season": "8",
+    "image": "https://album.mediaset.es/cimg/2024/12/11/rumboalaisla-2plus_da39-2.jpg",
+    "contentId": "LIDLT0802",
+    "category": "programas",
+    "id": "LIDLT0802",
+    "video": {
+      "normal": "https://vbdk.mediaset.es/orivod/vod/bitmovin/19/00/19008975-63c4-4c84-886f-2cfca3320b72/main.ism/picky.m3u8",
+      "backup": ""
+    },
+    "title": "Rumbo a La Isla de las Tentaciones 2",
+    "desc": "Cinco nuevas parejas se enfrentan al reto de 'La isla de las tentaciones'. Esta vez las reglas han cambiado y será la tentación la que se enfrente con más fuerza que nunca al amor. Conocemos a los protagonistas de esta octava edición, sus miedos, sus propósitos y algunos de sus secretos, y somos testigos de sus últimas confidencias antes de poner rumbo a la isla de las tentaciones."
+  }
+]
